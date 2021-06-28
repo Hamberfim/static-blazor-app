@@ -38,6 +38,13 @@ namespace Api
                 Name = "Apples",
                 Description = "Bag of 7 fresh McIntosh apples",
                 Quantity = 1
+            },
+            new Product
+            {
+                Id = 40,
+                Name = "Oranges",
+                Description = "1 lbs. box/bag of  fresh oranges",
+                Quantity = 1
             }
         };
 
