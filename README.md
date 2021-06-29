@@ -1,6 +1,6 @@
 
 ![Alt](https://github.com/Hamberfim/static-blazor-app/blob/main/Screenshot.jpg "Screenshot")
-
+<br /><br /><br />
 ---
 page_type: sample
 languages:
